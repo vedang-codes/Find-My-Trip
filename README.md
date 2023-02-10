@@ -1,9 +1,9 @@
 # Find-My-Trip
-This Travel and Tourism website will provide packages, offers and services related to the holidays, vacations, short trips, famous travel destination, and etc.
+Languages: HTML5, CSS3, PHP, JavaScript, Bootstrap //
+Database: MySQL //
+Design-tool: Pencil //
 
-Languages: HTML5, CSS3, PHP, JavaScript, Bootstrap
-Database: MySQL
-Design-tool: Pencil
+This Travel and Tourism website will provide packages, offers and services related to the holidays, vacations, short trips, famous travel destination, and etc.
 
 Links:
 
