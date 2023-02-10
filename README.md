@@ -1,6 +1,10 @@
 # Find-My-Trip
 This Travel and Tourism website will provide packages, offers and services related to the holidays, vacations, short trips, famous travel destination, and etc.
 
+Languages: HTML5, CSS3, PHP, JavaScript, Bootstrap
+Database: MySQL
+Design-tool: Pencil
+
 Links:
 
 1. Homepage: https://patel3u1.myweb.cs.uwindsor.ca/COMP-2707-F20/final_project/html/homepage.html
