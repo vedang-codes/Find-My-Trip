@@ -123,6 +123,7 @@ if (isset($_POST['name'])) {
             <?php
             if ($insert == true) {
                 echo "<p class = 'Submsg'>You successfully submited registration form...<br>Welcome to Find My Trip</p>";
+                echo "<br> <a class='btn1' href='../html/homepage.html'>HomePage</a>";
             }
             ?>
         </form>
