@@ -137,6 +137,7 @@ if (isset($_POST['name'])) {
                 <?php
                 if ($insert == true) {
                     echo "<p class = 'Submsg'>You successfully submited feedback form...</p>";
+                    echo "<br> <a class='btn1' href='../html/homepage.html'>HomePage</a>";
                 }
                 ?>
             </form>
