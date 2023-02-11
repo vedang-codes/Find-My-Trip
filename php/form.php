@@ -22,7 +22,7 @@ if (isset($_POST['name'])) {
     $package = $_POST['package'];
     $note = $_POST['note'];
 
-    $sql = "INSERT INTO `General`(`user_id`, `name`, `email`, `password`, `age`, `gender`, `contact`, `address`, `package`, `note`) VALUES (null,'$name','$email','$pwd','$age','$gender','$contact','$address','$package','$note')";
+    $sql = "INSERT INTO `General`(`user_id`, `user_name`, `email`, `password`, `age`, `gender`, `contact`, `address`, `package`, `note`) VALUES (null,'$name','$email','$pwd','$age','$gender','$contact','$address','$package','$note')";
     if ($con->query($sql) == true) {
         $insert = true;
     } else {
